@@ -1,0 +1,25 @@
+{
+  "clients": [
+    {
+      "id": 2,
+      "name": "John",
+      "domain": "HealthCare",
+      "manager_name": "Jeff",
+      "revenue": "111 Million"
+    },
+    {
+      "id": 3,
+      "name": "Abel",
+      "domain": "HealthCare",
+      "manager_name": "Elon",
+      "revenue": "111 Billion"
+    },
+    {
+      "id": 4,
+      "name": "Zuck",
+      "domain": "CyberSecurity",
+      "manager_name": "Bezos",
+      "revenue": "111 Million"
+    }
+  ]
+}
